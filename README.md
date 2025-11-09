@@ -1,16 +1,23 @@
-## Hi there 👋
+# 自己紹介
+- KADOKAWAドワンゴ情報工科学院 2年次 加藤　雄大
+- フルスタックエンジニアを目指し、日々学習中。
 
-<!--
-**katoyuta0219/katoyuta0219** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
+<br />
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/Kate0418/calculateApp?tab=readme-ov-file#%E6%95%B0%E5%BC%8F%E8%A8%88%E7%AE%97%E3%82%A2%E3%83%97%E3%83%AA">
+        <img width="1115" height="696" alt="スクリーンショット 2025-11-09 17 33 00" src="https://github.com/user-attachments/assets/8792e381-5aae-496e-989b-ac87ad8fb692" />
+        数式計算アプリ
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/Kate0418/calculateApp?tab=readme-ov-file#%E6%95%B0%E5%BC%8F%E8%A8%88%E7%AE%97%E3%82%A2%E3%83%97%E3%83%AA">
+        <img width="1115" height="696" alt="スクリーンショット 2025-11-09 17 33 00" src="https://github.com/user-attachments/assets/8792e381-5aae-496e-989b-ac87ad8fb692" />
+        こんせい
+      </a>
+    </td>
+  </tr>
+</table>
